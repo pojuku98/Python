@@ -1,0 +1,5 @@
+customer_id,age,insurance_type,claim_amount,accident_type,hospital_days,policy_start_date
+C001,25,health,12000,illness,5,2022-03-01
+C002,70,life,500000,natural,0,2020-05-03
+C003,35,car,20000,drunk_driving,0,2023-02-15
+C004,30,health,10000,illness,1,2024-01-01

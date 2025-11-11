@@ -1,0 +1,5 @@
+customer_id,payout,reason
+C001,12000.0,Claim successful
+C002,250000.0,Claim successful
+C003,0.0,Deny: Drunk driving
+C004,0.0,Deny: Hospital days not fulfill
